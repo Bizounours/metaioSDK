@@ -1,0 +1,630 @@
+1.	Choose your Deployment option
+
+There is a version of the metaio SDK under which you have the option of deploying your Apps in different ways.
+
+We do not charge you when you use the metaio SDK. Even submitting Apps based on the metaio SDK is free of charge. However we demand you to display certain METAIO Branding Features. That way, the public can see that you have built a great App and we have built this amazing piece of technology. If you or your clients want to get rid of METAIO’s Branding Features, all you’ll need is what we call the metaio SDK Basic or metaio SDK Pro Deployment option. The advantage of the metaio SDK Pro Deployment option is that it offers you a 3D tracking solution. You can get either of them via our developer portal. 
+
+2.	Bring your App to the people
+If you are done developing your App and you want to deploy it, you need to go to https://mobiledeveloperportal.ar-live.de/. Get a deployment key and tell us what App you have developed. After that you can submit your App to the App Stores – that´s it!
+
+Nothing of the abovementioned will be deemed to be an offer, warranty or representation (whether express or implied) by METAIO. 
+
+
+
+
+License for metaio SDK (Version 12/2012) - Copyright (c) 2003-2012 metaio GmbH, 80797 Munich, Germany [METAIO]
+
+
+METAIO software licenses for the metaio SDK, including all demos, are subject exclusively to these Terms and Conditions. Any conflicting terms and conditions shall be deemed excluded, be it by express or implied agreement. 
+
+0-	Definitions:
+
+-	“About Box”- it is a box contained in the Derivative Works, accessible for the users of the Derivative Works, which gives credit to the author of the Derivative Works and which must include the information stated in Section 2.c.ii of this Agreement.
+
+-	“Branding Features”- the Branding Features include, but are not limited to METAIO’s trademarks, watermarks, logos, web pages or other distinctive features.
+
+-	“Confidential Information”- “Confidential Information” means the Licensed Software, accompanying documentation and any technical information disclosed by METAIO to Customer that is disclosed in writing, orally, graphically, electronically or by observation or otherwise, is identified as “confidential” or “proprietary” at the time of disclosure or under the circumstances, a person exercising reasonable business judgment would understand to be confidential or proprietary.	
+	
+-	“Customer”- You or the organization/company on whose behalf you are acting and have the legal authority to bind.
+
+-	“Derivative Works”- the end user Application software developed by Customer using the Licensed Software. 
+
+-	“the Licensed Software”- means  metaio’s SDK.
+
+-	“Public Space”- the Public Space includes, but is not limited to, the Apple App Store, Android market, any other online store or distribution channel in/by which Derivative Works are shared or published.
+
+-	“Right to Deploy”- the right Customer has to publish his/her Derivative Works in the Public Space, subject to the use of Branding Features in the Derivative Works.
+
+-	“The Parties”- Customer and METAIO.
+
+-	“Updates”- means an update to the Licensed Software made available to Customer by METAIO at its sole discretion.
+
+-	“Upgrades”- means any enhancement or improvement to the functionality of the Licensed Software (excluding Updates) made available to Customer by METAIO.
+
+
+1-	License Grant to Use and Deploy the Software
+
+a-	 Right to Use the Licensed Software- the Licensed Software is intended for use as a development tool to enable Customer to develop augmented reality Derivative Works (the “Permitted Use“). Subject to the Terms and Conditions of this agreement, METAIO hereby grants Customer a personal, non-exclusive, non-sublicensable, non-transferable, revocable, perpetual license to download, install and use the Licensed Software in machine-readable form solely for the above mentioned Permitted Use, and subject to the Obligations set forth in Section 2. 
+
+b-	Right to Deploy- Subject to the Terms and Conditions of this agreement, METAIO hereby grants Customer a personal, time-limited, non-exclusive and non-transferable, revocable Right to Deploy Derivative Works, subject to the Obligations set forth in Section 2.
+
+c-	Subject to the Terms and Conditions of this Agreement set forth below, Customer may reproduce and use a reasonable number of copies of the documentation solely to support Customer’s Permitted Use of the Licensed Software.
+
+
+2-	Obligations of Customer
+
+a.	In order to obtain a Right to Use and Deploy the Licensed Software, Customer must accept the terms of this Agreement.
+
+b.	METAIO grants Customer a Right to Deploy Derivative Works free of charge. The above mentioned Right to Deploy is subject to Customer’s obligation to include Branding Features in Derivative Works, including but not limited to displaying Branding Features in video images and starting splash screens. However, Customer may pay METAIO a one-time license fee for obtaining either the metaio SDK Basic Deployment option or the metaio SDK Pro Deployment option- the exact amount, due date and payment conditions of which are set out in The Parties’ agreements. As used herein, “metaio SDK Basic Deployment option” means a personal, time-limited, non-exclusive, non-transferable, revocable right to publish Derivative Works without Branding Features and “metaio SDK Pro Deployment option” means a personal, time-limited, non-exclusive, non-transferable, revocable right to publish Derivative Works implementing a 3D tracking solution without Branding Features.
+
+c.	Regardless of the Deployment option Customer may purchase, Customer’s Derivative Works must:
+
+i.	be submitted to Public Space together with an EULA (End User License Agreement) that contains the information stated in Section 2.c.ii herein and that is as prohibitive as the Terms in this Agreement. If Customer uses Public Space’s EULA, Customer must verify that the License Terms of Public Space are as prohibitive as the Terms in this Agreement.
+
+ii.	have an About Box, which includes the following statements:
+
+•	This software has been developed using metaio SDK
+•	For more information regarding metaio SDK license terms please go to: http://www.metaio.com/imprint/ 
+
+d.	If Customer has a Right to Deploy or has purchased any of the Deployment options, Customer must obtain a deployment key and add it to the application directory before submitting the Derivate Works to Public Space.
+
+e.	At its own expense, Customer shall procure, and install in good time, additional hardware and software, which may be necessary for use of the Licensed Software within its IT system or network.
+
+
+3-	Obligations of METAIO
+
+ 	METAIO shall deliver the Licensed Software to Customer and, upon payment by Customer of all applicable fees, enable the metaio SDK Basic or Pro Deployment option.
+
+
+4-	Restrictions 
+a-	As between Customer and METAIO, METAIO and any third party licensors hereby retain all right, title and interest in and to the Licensed Software, including without limitation all copy-rights, patent rights, trademark rights and all other Intellectual Property Rights therein or related thereto. This Agreement does not convey or otherwise provide to Customer, title or any ownership rights or interests in or to any Intellectual Property Rights of METAIO or any of its affiliates, including but not limited to (1) those incorporated in the Licensed Software or any component of the Licensed Software, or (2) any METAIO patents, patent applications, works of authorship, trade secrets, know-how, ideas, or any other subject matter protectable under Intellectual Property Rights laws of any jurisdiction. METAIO and any third party licensors are the sole and exclusive owners of and retain all right, title and interest in and to all Licensed Software, including, all Intellectual Property Rights in each of the foregoing. Neither the delivery of any software nor any provision of this Agreement (including, without limitation, the rights and licenses granted by METAIO to Customer in Section 1) shall be deemed or construed to grant to Customer either expressly, by implication, by way of estoppel, or otherwise any right, license, or authority to infringe or immunity from infringement liability under (i) any of METAIO’s or its affiliates’ patents, including, without limitation, any patents covering or relating to the Licensed Software, or (ii) any non-patent Intellectual Property Rights of METAIO or its affiliates covering or relating to (a) any product or invention other than the Licensed Software or (b) any combination of any software or METAIO software with any other product or invention. Any rights not expressly granted to Customer herein are hereby reserved by METAIO. The foregoing limitations shall in no way be deemed a derogation of the express rights granted by METAIO in Section 1 to Customer.
+
+b-	Customer shall not engage in any act or failure to act, that enables, causes or facilitates any use or distribution of the Licensed Software in a manner that causes any patents, copyrights or other Intellectual Property Rights owned or controlled by METAIO or any of its affiliates to become subject to any encumbrance or terms and conditions of any Open Source License. The rights granted by METAIO in Section 1 are conditioned upon Customer’s full compliance with the foregoing sentence. As used herein, “Open Source License” means any agreement that requires, as a condition of use, modification and/or distribution of any software or other software incorporated into, derived from or distributed with such software (each, a “work”), that complies with the following criteria: (a) the making available of source code, object code or design information regarding a work; (b) the granting of any permission or other right for creating modifications to or derivative works regarding a work; (c) the granting of any royalty-free license rights to any party under any patents or other Intellectual Property Rights regarding a work. By means of example and without limitation, “Open Source License” includes the following licenses and/or distribution models: (i) the GNU General Public License, (ii) the GNU Lesser General Public License, (iii) the Mozilla Public License or (iv) any other open source, free software or community licenses (such as, without limitation, those listed on http://www.opensource.org/licenses/alphabetical).
+
+c-	Customer will not: (i) reverse engineer, disassemble, decompile, or translate the Licensed Software, or otherwise attempt to derive the source code of the Licensed Software, except if and only to the extent expressly permitted by applicable law; (ii) use the Licensed Software or any part of the Licensed Software, the documentation or Customer’s knowledge of the Licensed Software to create a product with the same or substantially the same functionalities as the Licensed Software, to create or develop any developer tools (including without limitation plug-ins and middleware) or any software other than augmented reality Derivative Works; (iii) transfer or assign this Agreement or any of the rights, duties or obligations hereunder; (iv) except as expressly permitted hereby, rent, lease, loan or otherwise in any manner provide or distribute the Licensed Software and/or documentation or any copy of thereof to any third party. 
+
+d-	Customer may not include in the Derivative Works (i) any content or materials of any kind (text, graphics, images, photographs, video, sounds, etc.) that comprise, depict or constitute profanity, pornographic images, nudity or explicit sexual themes, defamatory or libelous statements or material considered illegal or objectionable, or (ii) any malware, malicious or harmful code, program or other internal component (e.g., computer viruses, Trojan horses, etc. that could damage, destroy or adversely affect other software, firmware, hardware, data, systems, services or networks.) Customer shall not use the Licensed Software and/or documentation to create, develop or publish any Derivative Works that invades, violates or infringes the Intellectual Property rights (copyrights, patent rights, trade secrets, trademark or service mark rights, privacy, publicity, or any other rights) of any person or entity. In addition, Customer agrees not to design, develop or publish any Derivative Works with the objective to, damage any computer, network, or any feature or function of a wireless device, computer or network based on the use of such application. Customer represents and warrants that Customer has obtained all necessary permission and licenses from all copyright holders, if any, in material or code used or recorded in any Derivative Works that Customer creates or develops with the Licensed Software. The Right to Use the Licensed Software granted to Customer hereunder is solely for the Permitted Use expressly set forth in Section 1. The Licensed Software and documentation shall not be used for any other purpose.
+
+
+5-	METAIO’s Intellectual Property Rights of Branding Features
+
+a-	Customer acknowledges the rights, title and interest of METAIO in Branding Features, and agrees not to register any trademark comprised or confusingly similar to any Branding Features in any country. Customer agrees that all use of Branding Features will inure solely to the benefit of METAIO. Modifications of Branding Features performed by Customer are not permitted. 
+
+b-	METAIO hereby grants Customer a non-exclusive, worldwide, non-sublicensable, non-transferable, revocable right to use Branding Features in Derivative Works. 
+
+c-	Customer’s use of Branding Features shall not in any manner indicate, suggest or imply that METAIO is in any manner endorsing, approving, sponsoring or responsible for Customer’s Derivative Works.
+ 
+
+6-	Support, Updates and Upgrades
+
+a-	In the sole discretion of METAIO, metaio SDK Customers who have a Right to Use, a Right to Deploy or who have bought the metaio SDK Basic or Pro Deployment option, may receive Updates and/or Support for the use of the Licensed Software or deployment of the Derivative Works. Support, for metaio SDK Customers, will only be provided through METAIO’s website (www.metaio.com) and/or Forum.  
+
+b-	Under this Agreement, Customer will not receive any Upgrades of the Licensed Software from METAIO.
+
+
+7- DISCLAIMER OF WARRANTIES.
+	
+a-	METAIO warrants that the Licensed Software is free from material defects at the time of delivery. Material defects are deviations from the product specification, including in the accompanying documentation, where such deviations significantly impair the value of the software or its fitness for ordinary use as described in the documentation. The Customer shall immediately notify METAIO in writing of any material defect that may occur, specifying how the material defect manifests itself, what effect it has, under what circumstances it occurs, and how it is to be classified from the Customer's point of view. Otherwise METAIO shall not be liable for the material defect.
+
+b-	Provided that METAIO, having received notification of the material defect, has established that a material defect actually exists, it will, at its option, remedy such material defect (subsequent improvement or subsequent delivery) within a reasonable period of time. If an attempt to remedy the material defect is not successful within this period of time, and if such an attempt also fails within a further reasonable time limit to be set by the Customer, and if, furthermore, METAIO does not provide an interim solution pursuant to para. 6.4, then the Customer can reduce (lower) the license fee or cancel the Agreement. Nothing of the aforesaid shall prejudice any claim for damages of the Customer. If any notified material defect cannot be ascribed to METAIO, then the Customer shall compensate METAIO for the time spent, as well as for the accrued costs (in particular travel expenses), in each case at the applicable rate. 
+
+c-	METAIO is entitled to bypass any material defect that may arise with an interim solution if the material defect itself can only be remedied at unreasonable expense, and if the run time and response time of the licensed software are not seriously impaired as a result of the interim solution. 
+
+d-	METAIO is not obligated to warrant if modifications have been made to the Licensed Software unless the Customer provides evidence that the modifications are in no way connected with the defect that has occurred and that such modifications do not significantly hinder analysis and remedying of the defect. 
+
+e-	Claims of defects are statute barred within 12 months following the delivery of the Licensed Software. This does not apply if the corresponding defect has been maliciously concealed. Acquisition of further rights of use for licensed software already installed does not reset the period of limitation.
+
+f-	EXCEPT FOR THE FOREGOING LIMITED WARRANTIES IN THIS SECTION 7, METAIO MAKES NO WARRANTY, EXPRESS OR IMPLIED, AS TO MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, OR NON-INFRINGEMENT. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY METAIO OR ITS AUTHORIZED REPRESENTATIVES SHALL CREATE ANY REPRESENTATION OR WARRANTY.
+
+
+8- Overall Liability 
+
+a-	METAIO shall be fully liable for damage caused intentionally or by gross negligence, if a defect has been maliciously concealed, if a specific condition has been guaranteed and for damages based on the Product Liability Act (“Produkthaftungsgesetz”).
+
+b-	METAIO will only be liable for other damage if an obligation has been violated by simple negligence, compliance with which is of particular importance in order to achieve the purpose of the Agreement, and if the damage caused hereby is both typical and foreseeable based on the contractually agreed use of the Licensed Software. In such a case, the liability is restricted to an amount twice that of the license fees paid under the terms of this Agreement.
+
+c-	In the event of initial impossibility of performance METAIO shall be liable only if it had knowledge of the impediment to performance, or if its lack of knowledge is due to gross negligence.  
+
+d-	METAIO is only liable for the recovery of data provided that Customer has, appropriate to the level of risk, made regular backup copies, and ensured that the data from such backup copies can be reconstructed at reasonable expense. Any further liability for loss of data is excluded.
+
+e-	In no event, shall METAIO under this Agreement be liable for injury or damage to business, lost profits, revenues or goodwill of any party hereto, or for any special, consequential, or incidental damages, whether for breach of warranty, breach of contract, repudiation of contract, termination, negligence, or otherwise, even if it shall have been advised of the possibility of such damages, excepting, however, any damages or other cost, expense or liability arising from a breach of confidentiality, personal injury, property damage, gross negligence, or willful misconduct.
+
+f-	The above regulations shall also apply in favor of the employees and vicarious agents of METAIO.
+
+g-	With the exception of claims based on tortious acts, Customer’s claims for damages, liability for which is limited in accordance with the above provision, become statute-barred within one year of the start of the statutory limitation period.
+	
+
+9- INDEMNITY.  
+
+Customer agrees to indemnify and hold METAIO, its subsidiaries and affiliates and each of their respective officers, directors and employees harmless from and against any and all claims, demands, causes of action, losses, liabilities, damages, costs and expenses, incurred or otherwise suffered by METAIO (including but not limited to costs of defense, investigation and reasonable attorney’s fees) arising out of, resulting from or in connection with (i) any use, reproduction or distribution of the Derivative Works, which causes an infringement of any patent, copyright, trademark, trade secret, or other Intellectual Property, publicity or privacy right of any third parties arising in any jurisdiction anywhere in the world, (ii) the download, distribution, installation, storage, execution, use or transfer of Derivative Works, related content or materials, by any person or entity except and solely to the extent such infringement is caused by the unmodified Licensed Software, or portions thereof, as supplied to Customer by METAIO under this Agreement, and/or (iii) any breach of this Agreement by Customer. If and as requested by METAIO, Customer agrees to defend METAIO in connection with any third party claims, demands, or causes of action resulting from, arising out of or in connection with any of the foregoing.
+
+
+10- Confidentiality 
+
+a-	Both parties agree that the Licensed Software contains Confidential Information pertinent to METAIO. Customer undertakes to protect from disclosure to any third party the Licensed Software - including all accompanying documentation, any backup copies made, and all other information of METAIO identified or marked as Confidential and which is made accessible to Customer within the context of this Agreement. Customer shall not disclose, or permit the disclosure of, the Licensed Software and/or documentation in any form or any information relating to the Licensed Software and/or documentation to any third party without METAIO’s prior written permission. Customer acknowledges that the unauthorized use or disclosure of the METAIO’s Confidential Information would cause METAIO to incur irreparable harm and significant damages, the degree of which may be difficult to ascertain.  Accordingly, Customer agrees that METAIO will have the right to obtain immediate equitable relief to enjoin any unauthorized use or disclosure of its Confidential Information, in addition to any other rights and remedies that it may have at law or otherwise.
+
+b-	The Confidential Information will not include information that: (i) is now or thereafter becomes generally known or available to the public, through no act or omission on the part of Customer, (ii) is expressly revealed by METAIO on a non-confidential basis, (iii) was known by Customer prior to receiving such information, or (iv) is rightfully acquired by Customer from a third party who has the right to disclose it and who provides it without restriction as to use or disclosure. The burden of proof for the existence of any of the above exceptions shall be borne by Customer.
+
+
+11- Feedback
+
+Customer, at its sole discretion, may report its findings and results of the use of the Licensed Software ("Feedback"). Feedback includes, without limitation, suggestions, comments, ideas or know how about the Licensed Software in direct connection with Customer’s evaluation and use (whether presented orally, in written form or otherwise) and Derivative Works or parts of the Derivative Works in machine readable form or source code. With respect to such Feedback, Customer hereby grants METAIO, under the applicable Intellectual Property Rights owned by Customer, the worldwide, non-exclusive, perpetual, irrevocable, royalty-free rights: (1) to use, copy and modify Feedback, to create derivative works and/or include such Feedback in the Licensed Software thereof, (2) to make (and have made), use, import, sell, offer for sale, lease or otherwise distribute any products or services of METAIO containing Feedback, and (3) to sublicense the foregoing rights to the extent a license is necessary for using products or services of METAIO.
+ 
+
+12- Extinction of Rights
+
+Customer's Right to Use the Licensed Software and Deploy the Derivative Works, with or without Branding Features, becomes extinct, without notice being required, if Customer breaches any of the above terms of the Agreement. In such a case, Customer is obliged, at the discretion of METAIO, to return or destroy the tangible items or embodiments, all copies and documentation. Any such destruction must be confirmed in writing to METAIO. 
+
+
+13- Waiver
+
+No failure to exercise, nor any delay in exercising, on the part of METAIO, any right or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right or remedy prevent any further exercise thereof or the exercise of any other right or remedy. The waiver by METAIO of any breach shall not be deemed a waiver of any subsequent breach of the same or any other term of this Agreement.
+
+
+14- Severability
+
+If any provision of this Agreement shall be held or become invalid, this shall not prejudice the validity of the other provisions of this Agreement. METAIO and Customer agree on replacing the invalid provision with a valid provision, which most closely approximates to the commercial objective of The Parties. The same applies to eventual loopholes in this Agreement. 
+
+
+15- Audit rights 
+
+a-	Upon written request by METAIO, Customer shall, within a period of 15 days following receipt of the request, supply METAIO in writing with all requested information on the type and extent of use, by Customer, of the Licensed Software at the time, which is necessary to examine whether such use complies with the provisions of this License Agreement. 
+
+b-	During the term of this Agreement, METAIO is entitled, at its own expense, to have a member of the tax advising or business consulting professions who is sworn to professional secrecy, or any other independent expert, verify whether there has been compliance with the provisions of this License Agreement. The auditor must be granted access to inspect all documents and files deemed definitive for calculating the extent of use of the Licensed Software. If such verification reveals any inaccuracies, then the audit fees shall be borne by Customer, otherwise they will be borne by METAIO.
+
+
+
+16- Third Party Software
+
+The Licensed Software may use or be integrated by third party software, which requires additional terms and conditions.  Such third party software additional terms and conditions, listed and identified herein, are part of and incorporated into this Agreement. By accepting this Agreement, Customer is also accepting the additional terms and conditions set forth herein. METAIO will not warranty, indemnify or otherwise be held liable for any third party software.
+
+17- Final provisions 
+
+a-	Any modification or amendment to this Agreement must be made in writing to become effective. Verbal ancillary agreements are deemed not to exist. 
+
+b-	The terms of this Agreement apply only to the version of the Licensed Software available when acquired. Any previous or subsequent license granted to Customer for use of the Licensed Software shall be governed by the terms and conditions of the agreement entered into when Customer purchases or acquires that version of the Licensed Software.
+
+c-	 At METAIO’s request and upon breach of any of the Terms of this Agreement, Customer agrees to immediately remove the Derivative Works from Public Space.
+
+d-	Customer hereby grants METAIO a non-exclusive, worldwide, non-sublicensable, non-transferable, irrevocable right to use Derivative Works and/or Customer’s name, logos, trademarks, webpages, or any other distinctive feature of Derivative Works and/or Customer for marketing purposes, press releases, product brochures and financial reports and, in so doing, refer to the fact that Customer has used the Licensed Software.
+
+e-	Customer further agrees to METAIO's establishment of a hyperlink to Customer's corresponding online service within the framework of its own homepage. 
+
+f-	Offsetting by Customer is excluded unless Customer’s claim is uncontested, ready for decision or defined by final enforceable judgment. The same applies to Customer’s rights of retention.
+
+g-	This Agreement is subject exclusively to the substantive law of the Federal Republic of Germany- with the exception of the UN Convention on Contracts for the International Sales of Goods.
+
+h-	The place of performance shall be the corporate seat of METAIO in Munich, Germany.
+
+i-	The Parties agree that the regional court of Munich (LG München I) shall have exclusive jurisdiction for any disputes arising out of or in connection with this Agreement. METAIO is entitled to sue Customer at any other legal place of jurisdiction.
+
+
+
+-------------- Other Licenses ---------------------
+
+Important note: **The following licenses are dependent on the Operating System used. 
+ 
+-------------- OpenSSL ---------------
+
+ Copyright (c) 1998-2011 The OpenSSL Project.  All rights reserved.
+
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+ 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. All advertising materials mentioning features or use of this software must display the following acknowledgment:
+
+"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+
+ 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org.
+
+ 5. Products derived from this software may not be called "OpenSSL" nor may "OpenSSL" appear in their names without prior written  permission of the OpenSSL Project.
+
+ 6. Redistributions of any form whatsoever must retain the following acknowledgment:
+ "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+
+ THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-------------- Cryptsoft ---------------
+
+This product includes cryptographic software written by Eric Young (eay@cryptsoft.com). This product includes software written by Tim Hudson (tjh@cryptsoft.com).
+
+
+-------------- Original SSLeay License--------------
+
+  Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+ All rights reserved.
+
+This package is an SSL implementation written by Eric Young (eay@cryptsoft.com).
+ The implementation was written so as to conform with Netscapes SSL.
+ 
+This library is free for commercial and non-commercial use as long as the following conditions are adhered to.  The following conditions apply to all code found in this distribution, be it the RC4, RSA,  lhash, DES, etc., code; not just the SSL code.  The SSL documentation included with this distribution is covered by the same copyright terms except that the holder is Tim Hudson (tjh@cryptsoft.com).
+ 
+Copyright remains Eric Young's, and as such any Copyright notices in the code are not to be removed. If this package is used in a product, Eric Young should be given attribution as the author of the parts of the library used. This can be in the form of a textual message at program startup or in documentation (online or textual) provided with the package.
+ 
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+1.	Redistributions of source code must retain the copyright notice, this list of conditions and the following disclaimer.
+
+2.	Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3.	All advertising materials mentioning features or use of this software must display the following acknowledgement:
+
+"This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)"
+
+The word 'cryptographic' can be left out if the rouines from the library being used are not cryptographic related :-).
+
+ 4. If you include any Windows specific code (or a derivative thereof) from the apps directory (application code) you must include an acknowledgement:
+
+ "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"
+ 
+THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+-------------- jpeglib (version 8c) ---------------
+
+ "this software is based in part on the work of the Independent JPEG Group"
+
+The authors make NO WARRANTY or representation, either express or implied, with respect to this software, its quality, accuracy, merchantability, or fitness for a particular purpose.  This software is provided "AS IS", and you, its user, assume the entire risk as to its quality and accuracy.
+
+  	This software is copyright (C) 1991-1998, Thomas G. Lane.
+  	All Rights Reserved except as specified below.
+  	Permission is hereby granted to use, copy, modify, and distribute this software (or portions thereof) for any purpose, without fee, subject to these conditions:
+  	(1) If any part of the source code for this software is distributed, then this README file must be included, with this copyright and no-warranty notice unaltered; and any additions, deletions, or changes to the original files must be clearly indicated in accompanying documentation.
+  	(2) If only executable code is distributed, then the accompanying documentation must state that "this software is based in part on the work of the Independent JPEG Group".
+  	(3) Permission for use of this software is granted only if the user accepts full responsibility for any undesirable consequences; the authors accept NO LIABILITY for damages of any kind.
+  	These conditions apply to any software derived from or based on the IJG code, not just to the unmodified library.  If you use our work, you ought to acknowledge us.
+  	Permission is NOT granted for the use of any IJG author's name or company name in advertising or publicity relating to this software or products derived from it.  This software may be referred to only as "the Independent JPEG Group's software".
+  	We specifically permit and encourage the use of this software as the basis of commercial products, provided that all warranty or liability claims are assumed by the product vendor.
+
+
+------zlib/libpng (version 1.2.39) License / TinyXML/ MiniZip (version 1.1)/ The Irrlicht Engine License ------
+
+Copyright (c) 1998-2009 Glenn Randers-Pehrson (libpng version 1.2.39)
+
+Copyright (C) 1995-2004 Jean-loup Gailly and Mark Adler (zlib)
+
+Copyright (c) 2000-2006 Lee Thomason (www.grinninglizard.com) (TinyXML)
+
+Copyright (c) 1998-2010 - by Gilles Vollant (MiniZip)
+
+Copyright (c) 2002-2010 Nikolaus Gebhardt (The Irrlicht Engine License 1.7.2)
+
+This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
+
+2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+
+3. This notice may not be removed or altered from any source distribution.
+
+-------------- Zxing ---------------
+
+Copyright (C) 2010 ZXing authors
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   
+See the License for the specific language governing permissions and limitations under the License.
+
+---------------Qt----------------
+Qt contains some code that is not provided under the GNU Lesser General Public License  (LGPL) (when applicable refere to LGPLlicense below), but rather under specific licenses from the original authors.
+
+ -------
+Legal Information For Qt:QImage smooth scaling, the transformed() functions use code based on smooth scaling algorithm by Daniel M. Duley.
+
+Copyright (C) 2004, 2005 Daniel M. Duley
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+QtNetwork
+Copyright (C) 2011 - 2011 by Dongxu Ma
+This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+--QtGUI--
+Copyright (C) 2011 Nokia Corporation and/or its subsidiary(-ies).
+All rights reserved.
+Contact: Nokia Corporation (qt-info@nokia.com)
+You may use this file under the terms of the BSD license as follows:
+"Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+* Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+* Neither the name of Nokia Corporation and its Subsidiary(-ies) nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+
+-------phonon---------------
+
+This file is part of the KDE project.
+
+Copyright (C) 2009 Nokia Corporation and/or its subsidiary(-ies).
+
+This library is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 2.1 or 3 of the License.
+
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with this library.  If not, see <http://www.gnu.org/licenses/>.
+
+
+This file is part of the KDE project
+
+Copyright (C) 2005-2006 Matthias Kretz <kretz@kde.org>
+
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) version 3, or any later version accepted by the membership of KDE e.V. (or its successor approved by the membership of KDE e.V.), Nokia Corporation (or its successors, if any) and the KDE Free Qt Foundation, which shall act as a proxy defined in Section 6 of version 3 of the license.
+
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public 
+License along with this library.  If not, see <http://www.gnu.org/licenses/>.
+
+-------------string encoders/protocol buffers under BSD license-----------
+
+Copyright © 2008 Google Inc.  
+All rights reserved.
+
+Copyright ©; 2005, 2006, 2007  Nick Galbreath – nickg@modp.com
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+-	Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+-	Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+-	Neither the name of the modp.com, Google Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+-------------- libxml2 ---------------
+
+Copyright (C) 1998-2002 Daniel Veillard.  
+
+All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Except as contained in this notice, the name of Daniel Veillard shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from him.
+
+
+-------------- libstdc++ ---------------
+
+The source code is distributed under the GNU General Public License version 3, with the addition under section 7 of an exception described in the “GCC Runtime Library Exception, version 3.1” as follows (or see the file COPYING.RUNTIME): 
+
+GCC RUNTIME LIBRARY EXCEPTION
+
+Version 3.1, 31 March 2009
+
+Copyright (C) 2009 Free Software Foundation, Inc.
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+This GCC Runtime Library Exception ("Exception") is an additional permission under section 7 of the GNU General Public License, version 3 ("GPLv3"). It applies to a given file (the "Runtime Library") that bears a notice placed by the copyright holder of the file stating that the file is governed by GPLv3 along with this Exception.
+
+When you use GCC to compile a program, GCC may combine portions of certain GCC header files and runtime libraries with the compiled program. The purpose of this Exception is to allow compilation of non-GPL (including proprietary) programs to use, in this way, the header files and runtime libraries covered by this Exception.
+
+--------libCURL-----------
+
+COPYRIGHT AND PERMISSION NOTICE
+ 
+Copyright (c) 1996 - 2012, Daniel Stenberg, <daniel@haxx.se>.
+ 
+All rights reserved.
+ 
+Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+ 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
+
+-------------- FFmpeg ---------------
+
+FFMPEG Version: version N-47169-g23101ce, configuration:
+--toolchain=msvc --enable-shared --disable-static --disable-ffplay --disable-ffserver --disable-encoders --disable-muxers --disable-devices --disable-protocols --enable-protocol=file --enable-avfilter --disable-network --enable-small --enable-stripping --disable-debug --enable-optimizations --disable-decoder=adpcm_4xm --disable-decoder=adpcm_adx --disable-decoder=adpcm_ct --disable-decoder=adpcm_ea --disable-decoder=adpcm_ea_maxis_xa --disable-decoder=adpcm_ea_r1 --disable-decoder=adpcm_ea_r2 --disable-decoder=adpcm_ea_r3 --disable-decoder=adpcm_ea_xas --disable-decoder=adpcm_g726 --disable-decoder=adpcm_ima_amv --disable-decoder=adpcm_ima_dk3 
+--disable-decoder=adpcm_ima_dk4 --disable-decoder=adpcm_ima_ea_eacs --disable-decoder=adpcm_ima_ea_sead --disable-decoder=adpcm_ima_iss --disable-decoder=adpcm_ima_qt --disable-decoder=adpcm_ima_smjpeg --disable-decoder=adpcm_ima_wav --disable-decoder=adpcm_ima_ws --disable-decoder=adpcm_ms --disable-decoder=adpcm_sbpro_2 --disable-decoder=adpcm_sbpro_3 --disable-decoder=adpcm_sbpro_4 --disable-decoder=adpcm_swf --disable-decoder=adpcm_thp --disable-decoder=adpcm_xa --disable-decoder=adpcm_yamaha --disable-decoder=alac --disable-decoder=als --disable-decoder=amrnb --disable-decoder=amv--disable-decoder=anm --disable-decoder=ape --disable-decoder=asv1 --disable-decoder=asv2 --disable-decoder=atrac1 --disable-decoder=atrac3	--disable-decoder=aura --disable-decoder=aura2 
+--disable-decoder=avs  --disable-decoder=bethsoftvid  --disable-decoder=bfi  --disable-decoder=bink --disable-decoder=binkaudio_dct --disable-decoder=binkaudio_rdft --disable-decoder=bmp --disable-decoder=c93 --disable-decoder=cavs --disable-decoder=cdgraphics --disable-decoder=cinepak --disable-decoder=cljr --disable-decoder=cook --disable-decoder=cscd --disable-decoder=cyuv --disable-decoder=dca --disable-decoder=dnxhd --disable-decoder=dpx --disable-decoder=dsicinaudio --disable-decoder=dsicinvideo --disable-decoder=dvbsub --disable-decoder=dvdsub --disable-decoder=dvvideo --disable-decoder=theora  --disable-decoder=thp  --disable-decoder=tiertexseqvideo --disable-decoder=tiff --disable-decoder=tmv --disable-decoder=truehd --disable-decoder=truemotion1 --disable-decoder=truemotion2 --disable-decoder=truespeech --disable-decoder=tscc --disable-decoder=tta --disable-decoder=twinvq --disable-decoder=txd --disable-decoder=ulti --disable-decoder=v210 --disable-decoder=dxa --disable-decoder=eac3 --disable-decoder=eacmv --disable-decoder=eamad --disable-decoder=eatgq --disable-decoder=eatgv --disable-decoder=eatqi --disable-decoder=eightbps --disable-decoder=eightsvx_exp --disable-decoder=eightsvx_fib  --disable-decoder=escape124 --disable-decoder=ffv1 --disable-decoder=ffvhuff --disable-decoder=flac --disable-decoder=flashsv --disable-decoder=flic --disable-decoder=flv --disable-decoder=fourxm --disable-decoder=fraps --disable-decoder=frwu --disable-decoder=gif --disable-decoder=h261 --enable-decoder=h263 --enable-decoder=h263i --disable-decoder=huffyuv --disable-decoder=idcin --disable-decoder=iff_byterun1 --disable-decoder=iff_ilbm --disable-decoder=imc --disable-decoder=indeo2 --disable-decoder=indeo3 --disable-decoder=indeo5 --disable-decoder=interplay_dpcm --disable-decoder=interplay_video --disable-decoder=jpegls --disable-decoder=kgv1 --disable-decoder=kmvc --disable-decoder=loco --disable-decoder=mace3 --disable-decoder=mace6 --disable-decoder=mdec --disable-decoder=mimic --disable-decoder=mjpeg --disable-decoder=mjpegb --disable-decoder=mlp --disable-decoder=mmvideo --disable-decoder=motionpixels --disable-decoder=mpc7 --disable-decoder=mpc8 --disable-decoder=mpeg1video --disable-decoder=mpeg2video --disable-decoder=msrle --disable-decoder=msvideo1 --disable-decoder=mszh --disable-decoder=nellymoser --disable-decoder=v210x --disable-decoder=vb --disable-decoder=vc1 --disable-decoder=vcr1 --disable-decoder=vmdaudio --disable-decoder=vmdvideo --disable-decoder=vmnc --disable-decoder=vorbis --disable-decoder=vp3 --disable-decoder=vp5 --disable-decoder=vp6 --disable-decoder=vp6a --disable-decoder=vp6f --disable-decoder=vqa --disable-decoder=wavpack --disable-decoder=nuv --disable-decoder=pam --disable-decoder=pbm --disable-decoder=pcm_alaw --disable-decoder=pcm_bluray --disable-decoder=pcm_dvd --disable-decoder=pcm_f32be --disable-decoder=pcm_f32le --disable-decoder=pcm_f64be --disable-decoder=pcm_f64le --disable-decoder=pcm_mulaw --disable-decoder=pcm_s16be --disable-decoder=pcm_s16le --disable-decoder=pcm_s16le_planar --disable-decoder=pcm_s24be --disable-decoder=pcm_s24daud --disable-decoder=pcm_s24le --disable-decoder=pcm_s32be --disable-decoder=pcm_s32le --disable-decoder=pcm_s8 --disable-decoder=pcm_u16be --disable-decoder=pcm_u16le  --disable-decoder=pcm_u24be --disable-decoder=pcm_u24le --disable-decoder=pcm_u32be --disable-decoder=pcm_u32le --disable-decoder=pcm_u8 --disable-decoder=pcm_zork --disable-decoder=pcx --disable-decoder=pgm --disable-decoder=pgmyuv --disable-decoder=pgssub   --disable-decoder=png --disable-decoder=ppm --disable-decoder=ptx --disable-decoder=qcelp --disable-decoder=qdm2 --disable-decoder=qdraw --disable-decoder=qpeg --disable-decoder=qtrle --disable-decoder=r210 --disable-decoder=ra_144 --disable-decoder=ra_288 --disable-decoder=rawvideo --disable-decoder=rl2 --disable-decoder=roq --disable-decoder=roq_dpcm --disable-decoder=rpza --disable-decoder=rv10 --disable-decoder=rv20 --disable-decoder=rv30  
+--disable-decoder=rv40 --disable-decoder=sgi --disable-decoder=shorten --disable-decoder=sipr --disable-decoder=smackaud --disable-decoder=smacker --disable-decoder=smc --disable-decoder=snow --disable-decoder=sol_dpcm --disable-decoder=sonic --disable-decoder=sp5x --disable-decoder=sunrast -
+-disable-decoder=svq1 --disable-decoder=svq3 --disable-decoder=targa --disable-decoder=wmapro --disable-decoder=wmav1 --disable-decoder=wmav2 --disable-decoder=wmavoice --disable-decoder=wmv1 --disable-decoder=wmv2 --disable-decoder=wmv3 --disable-decoder=wnv1 --disable-decoder=ws_snd1 --disable-decoder=xan_dpcm --disable-decoder=xan_wc3 --disable-decoder=xl --disable-decoder=xsub --disable-decoder=zlib --disable-decoder=zmbv --disable-decoder=mp1 --disable-decoder=mp2 --disable-decoder=mp3 --disable-decoder=mp3adu --enable-decoder=aac
+
+This software uses libraries from the FFmpeg project under the LGPLv2.1
+
+
+ 		GNU LESSER GENERAL PUBLIC LICENSE
+		       Version 2.1, February 1999
+
+ Copyright (C) 1991, 1999 Free Software Foundation, Inc.
+ 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+[This is the first released version of the Lesser GPL.  It also counts as the successor of the GNU Library Public License, version 2, hence the version number 2.1.]
+
+			    Preamble
+
+The licenses for most software are designed to take away your freedom to share and change it.  By contrast, the GNU General Public Licenses are intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.
+
+This license, the Lesser General Public License, applies to some specially designated software packages--typically libraries--of the Free Software Foundation and other authors who decide to use it.  You can use it too, but we suggest you first think carefully about whether this license or the ordinary General Public License is the better strategy to use in any particular case, based on the explanations below.
+
+When we speak of free software, we are referring to freedom of use, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for this service if you wish); that you receive source code or can get it if you want it; that you can change the software and use pieces of it in new free programs; and that you are informed that you can do these things.
+
+To protect your rights, we need to make restrictions that forbid distributors to deny you these rights or to ask you to surrender these rights.  These restrictions translate to certain responsibilities for you if you distribute copies of the library or if you modify it.
+
+For example, if you distribute copies of the library, whether gratis or for a fee, you must give the recipients all the rights that we gave you.  You must make sure that they, too, receive or can get the source code.  If you link other code with the library, you must provide complete object files to the recipients, so that they can relink them with the library after making changes to the library and recompiling it.  And you must show them these terms so they know their rights.
+
+We protect your rights with a two-step method: (1) we copyright the library, and (2) we offer you this license, which gives you legal permission to copy, distribute and/or modify the library.
+
+To protect each distributor, we want to make it very clear that there is no warranty for the free library.  Also, if the library is modified by someone else and passed on, the recipients should know that what they have is not the original version, so that the original author's reputation will not be affected by problems that might be introduced by others.
+
+ Finally, software patents pose a constant threat to the existence of any free program.  We wish to make sure that a company cannot effectively restrict the users of a free program by obtaining a restrictive license from a patent holder.  Therefore, we insist that any patent license obtained for a version of the library must be consistent with the full freedom of use specified in this license.
+
+Most GNU software, including some libraries, is covered by the ordinary GNU General Public License.  This license, the GNU Lesser General Public License, applies to certain designated libraries, and is quite different from the ordinary General Public License.  We use this license for certain libraries in order to permit linking those libraries into non-free programs.
+
+When a program is linked with a library, whether statically or using a shared library, the combination of the two is legally speaking a combined work, a derivative of the original library.  The ordinary General Public License therefore permits such linking only if the entire combination fits its criteria of freedom.  The Lesser General Public License permits more lax criteria for linking other code with the library.
+
+We call this license the "Lesser" General Public License because it does Less to protect the user's freedom than the ordinary General Public License.  It also provides other free software developers Less of an advantage over competing non-free programs.  These disadvantages are the reason we use the ordinary General Public License for many libraries.  However, the Lesser license provides advantages in certain special circumstances.
+
+For example, on rare occasions, there may be a special need to encourage the widest possible use of a certain library, so that it becomes a de-facto standard.  To achieve this, non-free programs must be allowed to use the library.  A more frequent case is that a free library does the same job as widely used non-free libraries.  In this case, there is little to gain by limiting the free library to free software only, so we use the Lesser General Public License.
+
+In other cases, permission to use a particular library in non-free programs enables a greater number of people to use a large body of free software.  For example, permission to use the GNU C Library in non-free programs enables many more people to use the whole GNU operating system, as well as its variant, the GNU/Linux operating system.
+
+ Although the Lesser General Public License is Less protective of the users' freedom, it does ensure that the user of a program that is linked with the Library has the freedom and the wherewithal to run that program using a modified version of the Library.
+
+The precise terms and conditions for copying, distribution and modification follow.  Pay close attention to the difference between a "work based on the library" and a "work that uses the library".  The former contains code derived from the library, whereas the latter must be combined with the library in order to run.
+
+
+
+		  GNU LESSER GENERAL PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. This License Agreement applies to any software library or other program which contains a notice placed by the copyright holder or other authorized party saying it may be distributed under the terms of this Lesser General Public License (also called "this License"). Each licensee is addressed as "you".
+
+A "library" means a collection of software functions and/or data prepared so as to be conveniently linked with application programs (which use some of those functions and data) to form executables.
+
+The "Library", below, refers to any such software library or work which has been distributed under these terms.  A "work based on the Library" means either the Library or any derivative work under copyright law: that is to say, a work containing the Library or a portion of it, either verbatim or with modifications and/or translated straightforwardly into another language.  (Hereinafter, translation is included without limitation in the term "modification".)
+
+"Source code" for a work means the preferred form of the work for making modifications to it.  For a library, complete source code means all the source code for all modules it contains, plus any associated interface definition files, plus the scripts used to control compilation and installation of the library.
+
+Activities other than copying, distribution and modification are not covered by this License; they are outside its scope.  The act of running a program using the Library is not restricted, and output from such a program is covered only if its contents constitute a work based on the Library (independent of the use of the Library in a tool for writing it).  Whether that is true depends on what the Library does and what the program that uses the Library does.
+  
+1. You may copy and distribute verbatim copies of the Library's complete source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice and disclaimer of warranty; keep intact all the notices that refer to this License and to the absence of any warranty; and distribute a copy of this License along with the Library.
+
+You may charge a fee for the physical act of transferring a copy, and you may at your option offer warranty protection in exchange for a fee.
+
+2. You may modify your copy or copies of the Library or any portion of it, thus forming a work based on the Library, and copy and distribute such modifications or work under the terms of Section 1 above, provided that you also meet all of these conditions:
+
+    a) The modified work must itself be a software library.
+
+    b) You must cause the files modified to carry prominent notices stating that you changed the files and the date of any change.
+
+    c) You must cause the whole of the work to be licensed at no charge to all third parties under the terms of this License.
+
+    d) If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility, other than as an argument passed when the facility is invoked, then you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates, and performs whatever part of its purpose remains meaningful.
+
+ (For example, a function in a library to compute square roots has a purpose that is entirely well-defined independent of the application.  Therefore, Subsection 2d requires that any application-supplied function or table used by this function must be optional: if the application does not supply it, the square root function must still compute square roots.)
+
+These requirements apply to the modified work as a whole.  If identifiable sections of that work are not derived from the Library, and can be reasonably considered independent and separate works in themselves, then this License, and its terms, d o not apply to those sections when you distribute them as separate works.  But when you distribute the same sections as part of a whole which is a work based on the Library, the distribution of the whole must be on the terms of this License, whose permissions for other licensees extend to the entire whole, and thus to each and every part regardless of who wrote it.
+
+Thus, it is not the intent of this section to claim rights or contest your rights to work written entirely by you; rather, the intent is to exercise the right to control the distribution of derivative or collective works based on the Library.
+
+In addition, mere aggregation of another work not based on the Library with the Library (or with a work based on the Library) on a volume of a storage or distribution medium does not bring the other work under the scope of this License.
+
+3. You may opt to apply the terms of the ordinary GNU General Public License instead of this License to a given copy of the Library.  To do this, you must alter all the notices that refer to this License, so that they refer to the ordinary GNU General Public License, version 2, instead of to this License.  (If a newer version than version 2 of the ordinary GNU General Public License has appeared, then you can specify that version instead if you wish.)  Do not make any other change in these notices.
+
+Once this change is made in a given copy, it is irreversible for that copy, so the ordinary GNU General Public License applies to all subsequent copies and derivative works made from that copy.
+
+This option is useful when you wish to copy part of the code of the Library into a program that is not a library.
+
+4. You may copy and distribute the Library (or a portion or derivative of it, under Section 2) in object code or executable form under the terms of Sections 1 and 2 above provided that you accompany it with the complete corresponding machine-readable source code, which must be distributed under the terms of Sections 1 and 2 above on a medium customarily used for software interchange.
+
+If distribution of object code is made by offering access to copy from a designated place, then offering equivalent access to copy the source code from the same place satisfies the requirement to distribute the source code, even though third parties are not compelled to copy the source along with the object code.
+
+ 5. A program that contains no derivative of any portion of the Library, but is designed to work with the Library by being compiled or linked with it, is called a "work that uses the Library".  Such a work, in isolation, is not a derivative work of the Library, and therefore falls outside the scope of this License.
+
+However, linking a "work that uses the Library" with the Library creates an executable that is a derivative of the Library (because it contains portions of the Library), rather than a "work that uses the library".  The executable is therefore covered by this License. Section 6 states terms for distribution of such executables.
+
+When a "work that uses the Library" uses material from a header file that is part of the Library, the object code for the work may be a derivative work of the Library even though the source code is not.
+
+Whether this is true is especially significant if the work can be linked without the Library, or if the work is itself a library.  The threshold for this to be true is not precisely defined by law.
+
+If such an object file uses only numerical parameters, data structure layouts and accessors, and small macros and small inline functions (ten lines or less in length), then the use of the object file is unrestricted, regardless of whether it is legally a derivative work.  (Executables containing this object code plus portions of the Library will still fall under Section 6.)
+
+Otherwise, if the work is a derivative of the Library, you may distribute the object code for the work under the terms of Section 6. Any executables containing that work also fall under Section 6, whether or not they are linked directly with the Library itself.
+
+6. As an exception to the Sections above, you may also combine or link a "work that uses the Library" with the Library to produce a work containing portions of the Library, and distribute that work under terms of your choice, provided that the terms permit modification of the work for the customer's own use and reverse engineering for debugging such modifications.
+
+You must give prominent notice with each copy of the work that the Library is used in it and that the Library and its use are covered by this License.  You must supply a copy of this License.  If the work during execution displays copyright notices, you must include the copyright notice for the Library among them, as well as a reference directing the user to the copy of this License.  Also, you must do one of these things:
+
+a) Accompany the work with the complete corresponding machine-readable source code for the Library including whatever changes were used in the work (which must be distributed under Sections 1 and 2 above); and, if the work is an executable linked     with the Library, with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library.  (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.)
+
+b) Use a suitable shared library mechanism for linking with the Library.  A suitable mechanism is one that (1) uses at run time a copy of the library already present on the user's computer system, rather than copying library functions into the executable, and (2) will operate properly with a modified version of the library, if the user installs one, as long as the modified version is interface-compatible with the version that the work was made with.
+
+c) Accompany the work with a written offer, valid for at least three years, to give the same user the materials specified in Subsection 6a, above, for a charge no more than the cost of performing this distribution.
+
+ d) If distribution of the work is made by offering access to copy from a designated place, offer equivalent access to copy the above specified materials from the same place.
+
+e) Verify that the user has already received a copy of these materials or that you have already sent this user a copy.
+
+For an executable, the required form of the "work that uses the Library" must include any data and utility programs needed for reproducing the executable from it.  However, as a special exception, the materials to be distributed need not include anything that is normally distributed (in either source or binary form) with the major components (compiler, kernel, and so on) of the operating system on which the executable runs, unless that component itself accompanies the executable.
+
+It may happen that this requirement contradicts the license restrictions of other proprietary libraries that do not normally accompany the operating system.  Such a contradiction means you cannot use both them and the Library together in an executable that you distribute.
+
+
+7. You may place library facilities that are a work based on the Library side-by-side in a single library together with other library facilities not covered by this License, and distribute such a combined library, provided that the separate distribution of the work based on the Library and of the other library facilities is otherwise permitted, and provided that you do these two things:
+
+    a) Accompany the combined library with a copy of the same work based on the Library, uncombined with any other library facilities.  This must be distributed under the terms of the Sections above.
+
+    b) Give prominent notice with the combined library of the fact that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
+
+8. You may not copy, modify, sublicense, link with, or distribute the Library except as expressly provided under this License.  Any attempt otherwise to copy, modify, sublicense, link with, or distribute the Library is void, and will automatically terminate your rights under this License.  However, parties who have received copies, or rights, from you under this License will not have their licenses terminated so long as such parties remain in full compliance.
+
+9. You are not required to accept this License, since you have not signed it.  However, nothing else grants you permission to modify or distribute the Library or its derivative works.  These actions are prohibited by law if you do not accept this License.  Therefore, by modifying or distributing the Library (or any work based on the Library), you indicate your acceptance of this License to do so, and all its terms and conditions for copying, distributing or modifying the Library or works based on it.
+
+10. Each time you redistribute the Library (or any work based on the Library), the recipient automatically receives a license from the original licensor to copy, distribute, link with or modify the Library subject to these terms and conditions.  You may not impose any further restrictions on the recipients' exercise of the rights granted herein. You are not responsible for enforcing compliance by third parties with this License.
+
+11. If, as a consequence of a court judgment or allegation of patent infringement or for any other reason (not limited to patent issues), conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License.  If you cannot distribute so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not distribute the Library at all.  For example, if a patent license would not permit royalty-free redistribution of the Library by all those who receive copies directly or indirectly through you, then the only way you could satisfy both it and this License would be to refrain entirely from distribution of the Library.
+If any portion of this section is held invalid or unenforceable under any particular circumstance, the balance of the section is intended to apply, and the section as a whole is intended to apply in other circumstances.
+
+It is not the purpose of this section to induce you to infringe any patents or other property right claims or to contest validity of any such claims; this section has the sole purpose of protecting the integrity of the free software distribution system which is implemented by public license practices.  Many people have made generous contributions to the wide range of software distributed through that system in reliance on consistent application of that system; it is up to the author/donor to decide if he or she is willing to distribute software through any other system and a licensee cannot impose that choice.
+
+This section is intended to make thoroughly clear what is believed to be a consequence of the rest of this License.
+
+12. If the distribution and/or use of the Library is restricted in certain countries either by patents or by copyrighted interfaces, the original copyright holder who places the Library under this License may add an explicit geographical distribution limitation excluding those countries, so that distribution is permitted only in or among countries not thus excluded. In such case, this License incorporates the limitation as if written in the body of this License.
+
+13. The Free Software Foundation may publish revised and/or new versions of the Lesser General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+
+Each version is given a distinguishing version number.  If the Library specifies a version number of this License which applies to it and "any later version", you have the option of following the terms and conditions either of that version or of any later version published by the Free Software Foundation.  If the Library does not specify license version number, you may choose any version ever published by the Free Software Foundation.
+
+14. If you wish to incorporate parts of the Library into other free programs whose distribution conditions are incompatible with these, write to the author to ask for permission.  For software which is copyrighted by the Free Software Foundation, write to the Free Software Foundation; we sometimes make exceptions for this.  Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
+
+			    NO WARRANTY
+
+15. BECAUSE THE LIBRARY IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE LIBRARY, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE LIBRARY "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, TH IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE LIBRARY IS WITH YOU.  SHOULD THE LIBRARY PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+16. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE LIBRARY AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE LIBRARY (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+		     END OF TERMS AND CONDITIONS
+
+           How to Apply These Terms to Your New Libraries
+
+If you develop a new library, and you want it to be of the greatest possible use to the public, we recommend making it free software that everyone can redistribute and change.  You can do so by permitting redistribution under these terms (or, alternatively, under the terms of the ordinary General Public License).
+
+To apply these terms, attach the following notices to the library.  It is safest to attach them to the start of each source file to most effectively convey the exclusion of warranty; and each file should have at least the "copyright" line and a pointer to where the full notice is found.
+
+ <one line to give the library's name and a brief idea of what it does.>
+Copyright (C) <year>  <name of author>
+
+This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+
+Also add information on how to contact you by electronic and paper mail.
+
+You should also get your employer (if you work as a programmer) or your school, if any, to sign a "copyright disclaimer" for the library, if necessary.  Here is a sample; alter the names:
+
+  Yoyodyne, Inc., hereby disclaims all copyright interest in the
+  library `Frob' (a library for tweaking knobs) written by James Random Hacker.
+
+  <signature of Ty Coon>, 1 April 1990
+  Ty Coon, President of Vice
+
+
+-------Autodesk FBX SDK----------
+
+“This software contains Autodesk® FBX® code developed by Autodesk, Inc. Copyright 2012 Autodesk, Inc. All rights, reserved. Such code is provided “as is” and Autodesk, Inc. disclaims any and all warranties, whether express or implied, including without limitation the implied warranties of merchantability, fitness for a particular purpose or non-infringement of third party rights. In no event shall Autodesk, Inc. be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of such code.”
+
+
+
+

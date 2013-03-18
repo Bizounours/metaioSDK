@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/metaio/Scripts/metaioMobile.cs">
+    <Files>
+      <File FileName="Assets/metaio/Scripts/metaioDeviceCamera.cs" Line="62" Column="24" />
+      <File FileName="Assets/metaio/Scripts/metaioMobile.cs" Line="188" Column="3" />
+      <File FileName="Assets/metaio/Scripts/metaioCamera.cs" Line="31" Column="1" />
+      <File FileName="Assets/metaio/Scripts/metaioTracker.cs" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

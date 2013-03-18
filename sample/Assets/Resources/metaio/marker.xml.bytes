@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<TrackingData>
+  <Sensors>
+    <Sensor type="MarkerBasedSensorSource">
+      <SensorID>Markertracking1</SensorID>
+      <Parameters>
+        <MarkerTrackingParameters>
+          <trackingQuality>fast</trackingQuality>
+          <thresholdOffset>110</thresholdOffset>
+          <numberOfSearchIterations>3</numberOfSearchIterations>
+        </MarkerTrackingParameters>
+      </Parameters>
+	  
+      <SensorCOS>
+        <SensorCosID>Marker1</SensorCosID>
+        <Parameters>
+          <MarkerParameters>
+            <Size>60</Size>
+            <MatrixID>1</MatrixID>
+          </MarkerParameters>
+        </Parameters>
+      </SensorCOS>
+	  
+      <SensorCOS>
+        <SensorCosID>Marker2</SensorCosID>
+        <Parameters>
+          <MarkerParameters>
+            <Size>60</Size>
+            <MatrixID>2</MatrixID>
+          </MarkerParameters>
+        </Parameters>
+      </SensorCOS>
+	  
+    </Sensor>
+  </Sensors>
+  <Connections>
+  
+  	    <COS>
+      <Name>COS1</Name>
+      <Fuser type="BestQualityFuser">
+        <Parameters />
+      </Fuser>
+      <SensorSource trigger="1">
+        <SensorID>Markertracking1</SensorID>
+        <SensorCosID>Marker1</SensorCosID>
+        <HandEyeCalibration>
+          <TranslationOffset>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </TranslationOffset>
+          <RotationOffset>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+          </RotationOffset>
+        </HandEyeCalibration>
+        <COSOffset>
+          <TranslationOffset>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </TranslationOffset>
+          <RotationOffset>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+          </RotationOffset>
+        </COSOffset>
+      </SensorSource>
+    </COS>
+  
+  
+    <COS>
+      <Name>COS2</Name>
+      <Fuser type="BestQualityFuser">
+        <Parameters />
+      </Fuser>
+      <SensorSource trigger="1">
+        <SensorID>Markertracking1</SensorID>
+        <SensorCosID>Marker2</SensorCosID>
+        <HandEyeCalibration>
+          <TranslationOffset>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </TranslationOffset>
+          <RotationOffset>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+          </RotationOffset>
+        </HandEyeCalibration>
+        <COSOffset>
+          <TranslationOffset>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+          </TranslationOffset>
+          <RotationOffset>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+          </RotationOffset>
+        </COSOffset>
+      </SensorSource>
+    </COS>
+	
+  </Connections>
+</TrackingData>
